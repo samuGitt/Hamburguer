@@ -33,6 +33,7 @@ const pular = () => {
 }
 
 document.addEventListener('keydown', pular)
+document.addEventListener('mousedown', pular)
 
 
 
